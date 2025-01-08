@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vM68kDramController_Verilog
+Z0 !s110 1707340413
+!i10b 1
+!s100 ^g[L5SCnl`^?8jIC9GYBS0
+I^kEA8`VJHAPbGPdbQ2BUC3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/M68kV6.0 - 800by480/src_412/lab2/tb_dram
+w1707338230
+8C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v
+FC:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v
+L0 14
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1707340413.000000
+!s107 C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v|
+!i113 1
+o-work work
+Z4 tCvgOpt 0
+n@m68k@dram@controller_@verilog
+vM68kDramController_Verilog_tb
+Z5 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1707179970
+!i10b 1
+!s100 WgLY<gV^<2RGZ7]@5V]392
+II3PJom3fR[ICMBBTAAWfO2
+R1
+Z6 !s105 tb_dram_sv_unit
+S1
+R2
+w1707179958
+Z7 8C:/M68kV6.0 - 800by480/src_412/lab2/tb_dram.sv
+Z8 FC:/M68kV6.0 - 800by480/src_412/lab2/tb_dram.sv
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1707179970.000000
+Z9 !s107 C:/M68kV6.0 - 800by480/src_412/lab2/tb_dram.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/M68kV6.0 - 800by480/src_412/lab2/tb_dram.sv|
+!i113 1
+Z11 o-work work -sv
+R4
+n@m68k@dram@controller_@verilog_tb
+vtb_dram
+R5
+R0
+!i10b 1
+!s100 gell[PL<`[RPXhTCCCaU=0
+I0YB@Ko?g55m[bGcQAGOGE3
+R1
+R6
+S1
+R2
+w1707268102
+R7
+R8
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1707340412.000000
+R9
+R10
+!i113 1
+R11
+R4

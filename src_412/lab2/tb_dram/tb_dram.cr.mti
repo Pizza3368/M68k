@@ -1,0 +1,30 @@
+{C:/M68kV6.0 - 800by480/src_412/lab2/tb_dram.sv} {1 {vlog -work work -sv -stats=none {C:/M68kV6.0 - 800by480/src_412/lab2/tb_dram.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_dram
+
+Top level modules:
+	tb_dram
+
+} {} {}} {C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v} {2 {vlog -work work -stats=none {C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module M68kDramController_Verilog
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(17): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(18): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(25): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(31): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(32): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(33): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(48): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(49): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(53): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(54): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(56): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(57): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(59): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(60): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/M68kV6.0 - 800by480/src_412/lab2/M68kDramController_Verilog.v(63): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+Top level modules:
+	M68kDramController_Verilog
+
+} {} {}}
