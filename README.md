@@ -1,0 +1,1 @@
+This project demonstrates the design and implementation of key components for a 68k-based microcomputer system using the DE1 FPGA board. It includes the development of SRAM and DRAM interfaces, the integration of an SPI bus controller with Flash memory, and the creation of direct-mapped and set-associative cache controllers. 
